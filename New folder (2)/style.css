@@ -1,0 +1,8 @@
+body{
+    padding: 2%;
+}
+.finished{
+    cursor: pointer;
+    background-color: #3d3d3d;
+    color: #fff;
+}
